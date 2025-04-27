@@ -1,0 +1,10 @@
+  # 扫描仪扫描后，文件的存储位置
+  srcDir: "C:\\Users\\X\\Documents\\My Scan\\todo"
+
+  # 上传完成后，文件归档存储位置
+  uploadedPath: "C:\\Users\\X\\Documents\\My Scan\\uploaded"
+
+  secretIdValue: ""
+  secretKeyValue: ""
+  bucketUrl: ""
+  serviceUrl: ""
